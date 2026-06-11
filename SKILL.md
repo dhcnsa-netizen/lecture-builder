@@ -11,7 +11,9 @@ description: >-
   into a 讲义/lecture/复习讲义/handout/学案, make a student + teacher version of a
   worksheet, assemble knowledge + exercises into one formatted doc, or says things
   like “用知识点和题目生成讲义”, “做一份学生版和教师版”, “把解析粘到题目后面”. Works for
-  physics and any subject whose source docs contain figures and equations.
+  physics and any subject whose source docs contain figures and equations. Built for
+  teachers who already have knowledge-point and problem-set .docx files (optionally a
+  solutions .docx) and want a print-ready 学生版 + 教师版 lecture in one step.
 ---
 
 # Lecture Builder（讲义生成器）
