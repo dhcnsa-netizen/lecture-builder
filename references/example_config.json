@@ -1,0 +1,39 @@
+{
+  "title": "高二物理期末复习讲义",
+  "subtitle": "专题：带电粒子在磁场中的运动",
+  "knowledge_file": "知识点.docx",
+  "question_file": "题目.docx",
+  "solution_file": "题目（解析版）.docx",
+  "output_student": "lecture_test.docx",
+  "output_teacher": "lecture_教师版_test.docx",
+  "question_segments": [
+    {"kao": 1, "start": 6,  "end": 29,  "type": "choice"},
+    {"kao": 1, "start": 32, "end": 48,  "type": "solve"},
+    {"kao": 2, "start": 53, "end": 95,  "type": "choice"},
+    {"kao": 2, "start": 98, "end": 145, "type": "solve"}
+  ],
+  "solution_segments": [
+    {"kao": 1, "start": 6,   "end": 70,  "type": "choice"},
+    {"kao": 1, "start": 72,  "end": 118, "type": "solve"},
+    {"kao": 2, "start": 121, "end": 244, "type": "choice"},
+    {"kao": 2, "start": 246, "end": 499, "type": "solve"}
+  ],
+  "sections": [
+    {"title": "一、洛伦兹力、安培力与圆周运动基础",
+     "knowledge": [[2, 12]],
+     "formulas": [["F=qvB"], ["r=", {"frac": ["mv", "qB"]}], ["T=", {"frac": ["2πm", "qB"]}], ["t=", {"frac": ["θ", "2π"]}, "T"]],
+     "problems": [{"kao":1,"num":1},{"kao":1,"num":2},{"kao":1,"num":3},{"kao":1,"num":4},{"kao":1,"num":5},{"kao":1,"num":6},{"kao":1,"num":7},{"kao":1,"num":8},{"kao":1,"num":9},{"kao":2,"num":3},{"kao":2,"num":5}]},
+    {"title": "二、带电粒子在有界磁场中的运动",
+     "knowledge": [[13, 60]],
+     "problems": [{"kao":2,"num":1},{"kao":2,"num":2},{"kao":2,"num":11}]},
+    {"title": "三、磁场中的“动态圆”模型",
+     "knowledge": [[61, 82]],
+     "problems": [{"kao":2,"num":10},{"kao":2,"num":14}]},
+    {"title": "四、带电粒子运动的多解问题",
+     "knowledge": [[83, 88]],
+     "problems": [{"kao":2,"num":12},{"kao":2,"num":13}]},
+    {"title": "五、复合场（组合场与叠加场）中的运动",
+     "knowledge": [[89, 175]],
+     "problems": [{"kao":1,"num":10},{"kao":2,"num":4},{"kao":2,"num":6},{"kao":2,"num":7},{"kao":2,"num":8},{"kao":2,"num":9},{"kao":2,"num":15},{"kao":2,"num":16},{"kao":2,"num":17},{"kao":2,"num":18}]}
+  ]
+}

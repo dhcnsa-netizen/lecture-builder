@@ -1,0 +1,5 @@
+scripts/__pycache__/
+*.pyc
+# build artifacts
+_pkg_*/
+*.tmp
