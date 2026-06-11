@@ -1,19 +1,14 @@
 ---
 name: lecture-builder
 description: >-
-  Build printable two-version revision lectures (学生版 + 教师版 / student + teacher)
-  as Word/WPS .docx from a teacher's own source files — a 知识点/knowledge-points doc
-  plus a 题目/problem-set doc (and optionally a 解析版/answers-and-solutions doc). It
-  preserves every original figure and equation exactly (by merging the source XML,
-  not retyping), groups each problem under the matching knowledge point, renumbers
-  examples, and adds a cover, auto table of contents, page numbers, formula boxes
-  and answer/note regions. Use this whenever the user wants to turn lesson materials
-  into a 讲义/lecture/复习讲义/handout/学案, make a student + teacher version of a
-  worksheet, assemble knowledge + exercises into one formatted doc, or says things
-  like “用知识点和题目生成讲义”, “做一份学生版和教师版”, “把解析粘到题目后面”. Works for
-  physics and any subject whose source docs contain figures and equations. Built for
-  teachers who already have knowledge-point and problem-set .docx files (optionally a
-  solutions .docx) and want a print-ready 学生版 + 教师版 lecture in one step.
+  讲义制作工作流：用老师自己的「知识点文档 + 题目文档（可选再加一份解析版）」一键生成排版
+  精美、可直接打印的《学生版》和《教师版》两份 Word/WPS 讲义。通过合并源文件的原始 XML，
+  完整保留每一张原图和每一个公式（绝不重新录入），自动把每道题归入对应知识点、重新编号为
+  「例1 / 例2…」，并加上封面、自动目录、页码、公式框与答题/笔记区。当用户想把知识点与题目
+  整理成讲义 / 复习讲义 / 学案 / 讲义、想做「学生版 + 教师版」、想把解析粘到题目后面，或说出
+  「用知识点和题目生成讲义」「做一份学生版和教师版」「把解析粘到题目后面」之类的话时，使用
+  本技能。专为已经备好知识点与题目素材（最好再有一份解析版）、希望一步得到可打印复习讲义的
+  中小学老师设计；适用于物理及任何源文件含图、含公式的学科。
 ---
 
 # Lecture Builder（讲义生成器）

@@ -1,4 +1,6 @@
-# 讲义制作工作流（Lecture Builder）
+# 讲义制作工作流
+
+<sub>技术标识 / 安装目录名：`lecture-builder`</sub>
 
 > 一个 **Claude Code / Claude Agent Skill**：把老师手里的「知识点文档 + 题目文档（+ 解析版）」
 > 一键合成为**学生版**和**教师版**两份排版精美、可直接打印的 Word/WPS 讲义。
